@@ -10,7 +10,7 @@
 	
 	<groupId>com.cristianruizblog</groupId>
 	<artifactId>petclinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>petclinic</name>
 	<description>Cristian's version of Pet Clinic</description>
 
@@ -46,7 +46,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:cruizg93/petclinic.git</developerConnection>
-	  	<tag>HEAD</tag>
+	  	<tag>petclinic-0.0.1</tag>
   	</scm>
 
 </project>

@@ -5,11 +5,11 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.2.4.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cristianruizblog</groupId>
 	<artifactId>petclinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>petclinic</name>
 	<description>Cristian's version of Pet Clinic</description>
 
@@ -39,7 +39,8 @@
 	
 	<scm>
 		<developerConnection>scm:git:git@github.com:cruizg93/petclinic.git</developerConnection>
-	</scm>
+	  <tag>petclinic-0.0.1</tag>
+  </scm>
 
 	<packaging>pom</packaging>
   <modules>

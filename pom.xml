@@ -10,7 +10,7 @@
 	
 	<groupId>com.cristianruizblog</groupId>
 	<artifactId>petclinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>petclinic</name>
 	<description>Cristian's version of Pet Clinic</description>
 
